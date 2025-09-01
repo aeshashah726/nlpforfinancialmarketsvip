@@ -1,13 +1,10 @@
 # Assignment 1 — Flan-T5 + Financial PhraseBank
 
 ## Overview
-- **Dataset:** [`financial_phrasebank`](https://huggingface.co/datasets/financial_phrasebank) (`sentences_allagree`)  
-- **Model (used for demo):** [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small)  
+- **Dataset:** [`financial_phrasebank` `sentences_allagree`]
+- **Model:** [`google/flan-t5-small`]  
   - **License:** Apache-2.0  
   - **Intended use:** General-purpose text-to-text tasks (classification, summarization, Q&A).  
-- **Declared models for assignment:**  
-  - Primary: `mistralai/Mistral-7B-Instruct-v0.2`  
-  - Backup: `meta-llama/Meta-Llama-3-8B-Instruct`
 
 **Task:** Sentiment classification (Positive / Neutral / Negative) of financial news sentences.
 

@@ -1,7 +1,7 @@
 # Assignment 1 — Flan-T5 + Financial PhraseBank
 
 ## Overview
-- **Dataset:** [`financial_phrasebank`](`sentences_allagree`)  
+- **Dataset:** [`financial_phrasebank` `sentences_allagree`]
 - **Model:** [`google/flan-t5-small`]  
   - **License:** Apache-2.0  
   - **Intended use:** General-purpose text-to-text tasks (classification, summarization, Q&A).  
